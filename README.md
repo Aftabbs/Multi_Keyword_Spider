@@ -2,7 +2,7 @@
  
 ![image](https://github.com/user-attachments/assets/85692117-bca5-46eb-8869-a62a6b95f023) 
 
-## Overview 
+## Overview  
 The **Multi_Keyword Spider** is a web scraping tool built using Scrapy. It is designed to crawl websites, identify specified keywords across pages, and categorize them. The results are saved in a structured Excel file, making it a versatile tool for keyword detection and web data analysis.
 
 This tool is robust against interruptions, avoids redundant URL crawling, and ensures all crawled data is saved, even in case of unexpected script termination.
