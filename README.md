@@ -129,7 +129,3 @@ Contributions are welcome! If you want to add a feature or fix a bug, feel free 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
----
-
-## Author
-Developed by **[Your Name]**. If you have any questions or suggestions, please feel free to reach out!
